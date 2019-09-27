@@ -7,10 +7,10 @@
 
 All of my apps are in one virtual desktop per screen only. I've tried experimenting with multiple desktops grouped by category/projects etc. but I've found that I end up spending too much time searching and switching between multiple desktops. YMMV.
 
-## Content
+## Table of Content
 - [My macOS setup](#my-macos-setup)
   - [General](#general)
-  - [Content](#content)
+  - [Table of Content](#table-of-content)
   - [Applications](#applications)
     - [Productivity](#productivity)
       - [Alfred - Launcher](#alfred---launcher)
@@ -44,6 +44,18 @@ All of my apps are in one virtual desktop per screen only. I've tried experiment
       - [Microsoft Office](#microsoft-office)
       - [Adobe Acrobat Pro CC - PDF editor/reader](#adobe-acrobat-pro-cc---pdf-editorreader)
     - [Media/Design](#mediadesign)
+      - [Adobe Creative Cloud](#adobe-creative-cloud)
+        - [Adobe Lightroom](#adobe-lightroom)
+        - [Adobe Photoshop](#adobe-photoshop)
+      - [Sketch - Design tool](#sketch---design-tool)
+      - [Flinto](#flinto)
+      - [Sip - Collect, organize & share colors](#sip---collect-organize--share-colors)
+      - [Typeface](#typeface)
+      - [Zepplin - Package and hand off designs to developers](#zepplin---package-and-hand-off-designs-to-developers)
+    - [Content](#content)
+      - [Spotfiy - Music Streaming / Discovery](#spotfiy---music-streaming--discovery)
+      - [VLC - Media Player](#vlc---media-player)
+      - [Kindle - eBook Reader](#kindle---ebook-reader)
 
 ## Applications
 
@@ -186,3 +198,51 @@ I also share [my dotfiles](https://github.com/tansawit/dotfiles) along with my i
 
 
 ### Media/Design
+
+#### [Adobe Creative Cloud](https://www.adobe.com/sea/creativecloud/catalog/desktop.html)
+
+##### [Adobe Lightroom](https://www.adobe.com/sea/products/photoshop-lightroom-classic.html)
+
+- My preferred editng and photo storage app. It stores all of the photos I took on my camera
+
+##### [Adobe Photoshop](https://www.adobe.com/sea/products/photoshop.html)
+
+- Uses it for times when I want to do heavier editing/photo manipulation stuff. Oh and for the occasional graphics design because I don't have time to learn Illustrator yet...
+
+#### [Sketch](https://www.sketch.com/) - Design tool
+
+- Main app for web, application, and design stuff in general.
+- Use to quickly prototype designs.
+
+
+#### [Flinto](https://www.flinto.com/)
+
+- Use it alongside Sketch to build animations/transitions into my designs
+
+#### [Sip](https://sipapp.io/) - Collect, organize & share colors
+
+- Great color picker to collect and store color, schemes, etc.
+
+#### [Typeface](https://typefaceapp.com/)
+
+- Better font manager than Mac's default Font Book
+- Really clean and easy to use.
+
+#### [Zepplin](https://zeplin.io/) - Package and hand off designs to developers 
+
+- Package designs I made in other apps to developers/teams without needing to worry about assets, style guides, or accuracy
+
+### Content
+
+#### [Spotfiy](https://www.spotify.com/) - Music Streaming / Discovery
+
+- Being a self-appointed audiophile, Apple Music has the better sound quality, but I found it really hard to find new music to listen to on there
+- The newly added podcasts section also means I can use one app for all of my general listening needs
+
+#### [VLC](https://www.videolan.org/index.html) - Media Player
+
+- For when I want play my FLAC files or watch the occasional movies
+
+#### [Kindle](https://www.amazon.com/Kindle-eBooks/b?ie=UTF8&node=154606011) - eBook Reader
+
+- I rarely read books on my Mac nowadays, but I keep it just in case.
