@@ -2,15 +2,8 @@
 
 > List of applications and tools that make my macOS experience better.
 
-
-## General
-
-All of my apps are in one virtual desktop per screen only. I've tried experimenting with multiple desktops grouped by category/projects etc. but I've found that I end up spending too much time searching and switching between multiple desktops. YMMV.
-
-## Table of Content
 - [My macOS setup](#my-macos-setup)
   - [General](#general)
-  - [Table of Content](#table-of-content)
   - [Applications](#applications)
     - [Productivity](#productivity)
       - [Alfred - Launcher](#alfred---launcher)
@@ -30,17 +23,22 @@ All of my apps are in one virtual desktop per screen only. I've tried experiment
       - [Reeder - RSS/Feed Reader](#reeder---rssfeed-reader)
     - [Code](#code)
       - [VS Code - Main code editor](#vs-code---main-code-editor)
+      - [Vim/NeoVim - Hopeful future main editor](#vimneovim---hopeful-future-main-editor)
       - [Jetbrains Toolbox](#jetbrains-toolbox)
       - [PyCharm - Python editor/IDE](#pycharm---python-editoride)
       - [Docker - Amazing Application Container Manager](#docker---amazing-application-container-manager)
       - [R/RStudio - R computing environment](#rrstudio---r-computing-environment)
+      - [Tableau - Data Visualization and Analyses](#tableau---data-visualization-and-analyses)
       - [iTerm - Terminal Emulator](#iterm---terminal-emulator)
       - [Dash - API Documentation Browser](#dash---api-documentation-browser)
       - [Expressions - RegEx tool](#expressions---regex-tool)
       - [SnippetsLab - Snippet manager](#snippetslab---snippet-manager)
       - [Anaconda Navigator - GUI interface for Anaconda package manager](#anaconda-navigator---gui-interface-for-anaconda-package-manager)
     - [Writing/Documents](#writingdocuments)
+      - [Notion - My life's organization](#notion---my-lifes-organization)
       - [Notability - Handwritten notetaking](#notability---handwritten-notetaking)
+      - [Ulysses - Dedicated writing](#ulysses---dedicated-writing)
+      - [Day One - Daily Journaling](#day-one---daily-journaling)
       - [Microsoft Office](#microsoft-office)
       - [Adobe Acrobat Pro CC - PDF editor/reader](#adobe-acrobat-pro-cc---pdf-editorreader)
     - [Media/Design](#mediadesign)
@@ -53,9 +51,19 @@ All of my apps are in one virtual desktop per screen only. I've tried experiment
       - [Typeface](#typeface)
       - [Zepplin - Package and hand off designs to developers](#zepplin---package-and-hand-off-designs-to-developers)
     - [Content](#content)
-      - [Spotfiy - Music Streaming / Discovery](#spotfiy---music-streaming--discovery)
+      - [Spotify - Music Streaming / Discovery](#spotify---music-streaming--discovery)
       - [VLC - Media Player](#vlc---media-player)
       - [Kindle - eBook Reader](#kindle---ebook-reader)
+    - [Social](#social)
+      - [LINE - Instant Messaging](#line---instant-messaging)
+      - [Biscuit - WebApp organization](#biscuit---webapp-organization)
+      - [Spark - Mail Client](#spark---mail-client)
+      - [Discord - Voice chat](#discord---voice-chat)
+
+
+## General
+
+All of my apps are in one virtual desktop per screen only. I've tried experimenting with multiple desktops grouped by category/projects etc. but I've found that I end up spending too much time searching and switching between multiple desktops. YMMV.
 
 ## Applications
 
@@ -140,6 +148,12 @@ I also share [my dotfiles](https://github.com/tansawit/dotfiles) along with my i
 
 - I use the [One Dark Pro theme](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme) with the [Hack Nerd Font](https://github.com/ryanoasis/nerd-fonts)
 
+#### [Vim/NeoVim](https://neovim.io/) - Hopeful future main editor
+
+- I really like the idea of doing almost anything without having to touch my mouse.
+
+- Slowly getting the hang of the common key bindings and starting to build a set of plugins that help me with working with easier/faster.
+
 #### [Jetbrains Toolbox](https://www.jetbrains.com/toolbox/app/)
 
 - To manage my PyCharm installation
@@ -159,6 +173,12 @@ I also share [my dotfiles](https://github.com/tansawit/dotfiles) along with my i
 #### [Docker](https://www.docker.com/) - Amazing Application Container Manager
 
 #### [R/RStudio](https://www.rstudio.com/) - R computing environment
+
+#### [Tableau](https://www.tableau.com/) - Data Visualization and Analyses
+
+- A tool I'm trying to learn for faster data analyses without having to code.
+
+- Could be really useful for more complex and integrated visualizations (heatmaps, chloropleths etc.)
 
 #### [iTerm](https://www.iterm2.com/) - Terminal Emulator
 
@@ -180,11 +200,30 @@ I also share [my dotfiles](https://github.com/tansawit/dotfiles) along with my i
 
 ### Writing/Documents
 
+#### [Notion](https://www.notion.so/) - My life's organization
+
+- Just started experimenting and really trying this out
+- This is where I plan store almost everything I come across, consume, do, have to do. (spendings, travels, articles, videos, quotes, projects, meetings etc.)
+- As close of a second brain as I can get right now.
+- My full setup is can be seen here (coming soon.)
+
 #### [Notability](https://www.gingerlabs.com/) - Handwritten notetaking
 
 - Sometimes I find that writing notes down by hand instead of typing helps me remember them better.
 
 - But I still prefer to store all my files digitally so I use the same app to write notes on my iPad then uses this Mac version to view them
+
+#### [Ulysses](https://ulysses.app/) - Dedicated writing
+
+- I store all of my projects READMEs and articles on my Dropbox then add the folder onto this app.
+
+- Having this app on my Mac, iPhone, and iPad allows me to edit those files virtually anywhere.
+
+#### [Day One](https://dayoneapp.com/) - Daily Journaling
+
+- I keep a daily journey of the things I do, articles I read, cool videos I watch, things I learn, and general memorable moments
+- Really help me to deload and keep track of my actions.
+- Thinking of building something from all this info once they open up their API.
 
 #### [Microsoft Office](https://www.office.com/)
 
@@ -195,7 +234,6 @@ I also share [my dotfiles](https://github.com/tansawit/dotfiles) along with my i
 - I subscribe to Adobe's Creative Cloud plans for my creative work. This comes with that.
 
 - Huge upgrade over Mac's stock Preview. Allow me to edit, organize, combine, and sign the files. And a lot more that I'm not using.
-
 
 ### Media/Design
 
@@ -234,7 +272,7 @@ I also share [my dotfiles](https://github.com/tansawit/dotfiles) along with my i
 
 ### Content
 
-#### [Spotfiy](https://www.spotify.com/) - Music Streaming / Discovery
+#### [Spotify](https://www.spotify.com/) - Music Streaming / Discovery
 
 - Being a self-appointed audiophile, Apple Music has the better sound quality, but I found it really hard to find new music to listen to on there
 - The newly added podcasts section also means I can use one app for all of my general listening needs
@@ -246,3 +284,23 @@ I also share [my dotfiles](https://github.com/tansawit/dotfiles) along with my i
 #### [Kindle](https://www.amazon.com/Kindle-eBooks/b?ie=UTF8&node=154606011) - eBook Reader
 
 - I rarely read books on my Mac nowadays, but I keep it just in case.
+
+### Social
+
+#### [LINE](https://line.me/en/) - Instant Messaging
+
+- One of the two main messaging platforms. Mostly used it with family members and some friends
+
+#### [Biscuit](https://eatbiscuit.com/) - WebApp organization
+
+- This app has replaced Trello, Slack, and Telegram apps as well as GitHub and GitLab homepages, Google Drive, and Messenger on my Mac.
+- Instead I have a tab for each of those in this app.
+- Kinda help with my Chrome tab overload nightmare.
+
+#### [Spark](https://sparkmailapp.com/) - Mail Client
+
+- I generally only check my emails twice a day but I still prefer this app for how it organizes my inbox into sections.
+
+#### [Discord](https://discordapp.com/) - Voice chat
+
+- Mainly for gaming session with friends or just for group voice calls.
