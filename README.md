@@ -4,11 +4,11 @@
 
 ## Development
 
-[ Alacritty ](https://github.com/alacritty/alacritty) - GPU-accelerated Terminal Emulator
+- [ Alacritty ](https://github.com/alacritty/alacritty) - GPU-accelerated Terminal Emulator
 - [ Neovim ](https://neovim.io/) - 'Modern' Vim fork of choice
 - [ Tmux ](https://github.com/tmux/tmux) - Terminal multiplexer
 - [ Visual Studio Code ](https://code.visualstudio.com/) - Text Editor
-- [ Xcode ][https://developer.apple.com/xcode/] - iOS/macOS IDE
+- [ Xcode ](https://developer.apple.com/xcode/) - iOS/macOS IDE
 - [ Git Tower ](https://www.git-tower.com/) - Git client
 - [ Paw ](https://paw.cloud/) - REST API Client
 - [ Docker ](https://www.docker.com/)
