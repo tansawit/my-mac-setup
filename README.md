@@ -68,11 +68,17 @@ After combining it with [Alfred](https://www.alfredapp.com/), the [Dash Alfred w
 
 ## Design
 
-### [ Sketch ](https://www.sketch.com/)
+### [ Sketch ](https://www.sketch.com/) - Design Tool
 
 What I use whenever I have to design an app, site, or any other thing.
 
-### [ Flinto ](https://www.flinto.com/)
+![Sketch UI](/images/sketch.png)
+
+### [ Flinto ](https://www.flinto.com/) - Product Prototyping
+
+While it can definitely be a design tool all on its own, I usually use it in conjunction with Sketch. After I have a design completed in Sketch, I then import it into Flinto to implement the transitions and interactions, essentially turning the design into an interactive and testable prototype.
+
+![Flinto UI](/images/flinto.jpg)
 
 ## Utilities
 
@@ -151,8 +157,8 @@ The app allows you to assign a hotkey which, once pressed, will show a layer of 
 
 How I get a lot of my apps.
 
-### [ Paste ](https://setapp.com/apps/paste)
-### [ Sip ](https://setapp.com/apps/sip)
+### [ Paste ](https://setapp.com/apps/paste) - Clipboard Manager
+### [ Sip ](https://setapp.com/apps/sip) - Color Picker and Palette Manager
 
 Whenever I needed to get the color value of some digital assets before, I've always used macOS's built-in Digital Color Meter. But I always ran into the issue of having no integrated way to store the retrieved colors, let alone multiple color sets or palettes. Sip solves these issues with its color palette manager, a more fully-fledged and easy to use the color picker, and cloud sync.
 
