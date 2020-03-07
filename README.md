@@ -82,7 +82,7 @@ While it can definitely be a design tool all on its own, I usually use it in con
 
 ## Utilities
 
-### [ 1Password ](https://1password.com/)
+### [ 1Password ](https://1password.com/) - Password Manager
 
 - Generate all of my passwords with it and keep everything in a secured and encrypted vault kept secure by my one master password.
 - I no longer need to remember passwords and I now have a unique password for every website that I am signed up
@@ -97,12 +97,15 @@ One of the reasons I initially fell in love with macOS was its amazing search us
 - [ask-create-share](https://github.com/nikitavoloboev/alfred-ask-create-share): Quickly create web submissions (GitHub repos/gist, Stack Exchange, Google Doc files, etc.)
 - [alfred-localhost](https://github.com/simonguest/alfred-localhost): Open localhost with the input port in a new tab in the default browser
 
-### [ Lightshot ](https://apps.apple.com/us/app/lightshot-screenshot/id526298438)
-### [ AppCleaner ](https://freemacsoft.net/appcleaner/)
+### [ Lightshot ](https://apps.apple.com/us/app/lightshot-screenshot/id526298438) - Screenshot Tool
+
+An app that enables copying of screenshots directly to the clipboard, without having to save it to disk first. Really useful for quickly sending bits of info and references through others.
+
+### [ AppCleaner ](https://freemacsoft.net/appcleaner/) - App Uninstaller
 
 Really simple tool to completely uninstall apps from my computer, including files that might have been stored in various other directories aside from the Applications folder.
 
-### [ Contexts ](https://contexts.co/)
+### [ Contexts ](https://contexts.co/) - Windows Switcher
 
 Fuzzy search through all the currently active windows that I have.
 
@@ -118,7 +121,7 @@ Allows you to customize and hide the contents of your menu bar for a cleaner loo
 
 ### [ Typinator ](https://www.ergonis.com/products/typinator/) - Text Expansion
 
-### [ Karabiner ](https://pqrs.org/osx/karabiner/)
+### [ Karabiner ](https://pqrs.org/osx/karabiner/) - Keyboard Remapping
 
 This tool completely changed the way I interact with my computer, and I personally feel a lot more productive with it. Beyond describing it as somewhat similar to Windows' [AutoHotKey](https://www.autohotkey.com/), being a kernel extension that gives you a virtual keyboard you can heavily customize, I don't exactly know how to describe it, so instead, I'll outline some of the keys and key combinations I've configured with it:
 
@@ -164,7 +167,7 @@ Whenever I needed to get the color value of some digital assets before, I've alw
 
 ![Sip Color Palette Manager](/images/sip.png)
 
-### [ Expressions ](https://setapp.com/apps/expressions)
+### [ Expressions ](https://setapp.com/apps/expressions) - Regular Expression Sandbox
 
 A really easy way to test and play with [Regular Expressions](https://en.wikipedia.org/wiki/Regular_expression) (regex) without having to think about specific language library libraries/functions/syntax. Simply enter the expressions and the test string(s). Plus I love the minimalistic and clean UI.
 
